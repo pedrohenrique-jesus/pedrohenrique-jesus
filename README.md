@@ -42,8 +42,8 @@
 
 - 📊 [Análise de E-commerce com Python](https://github.com/pedrohenrique-jesus/Graficos-Interativos-em-Python)
 - 🗄️ [Banco de Dados de Restaurante (SQL)](https://github.com/pedrohenrique-jesus/sql-restaurante)
-- 📈 Análise de Mercado de Ações (Google Sheets)
-- ⚡ Processamento de Dados com PySpark
+- 📈 [Análise de Mercado de Ações (Google Sheets)](https://github.com/pedrohenrique-jesus/analise-financeira-google-sheets)
+- ⚡ [Processamento de Dados com PySpark](https://github.com/pedrohenrique-jesus/analise-dados-pyspark)
 - 🚗 [Dashboard de Acidentes de Trânsito](https://github.com/pedrohenrique-jesus/analise-acidentes-transito-brasil)
 
 ---
