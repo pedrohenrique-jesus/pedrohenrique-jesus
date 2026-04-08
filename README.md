@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Pedro+Henrique!;Seja+bem-vindo(a)+ao+meu+GitHub;Projetos+em+An%C3%A1lise+de+Dados+e+Tecnologia)](https://git.io/typing-svg)
-
 # 👋 Olá! Eu sou o Pedro Henrique
 
 ---
