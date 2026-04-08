@@ -51,7 +51,7 @@
 ## 📫 Contato
 
 📧 Email: pedrojesuscorre@email.com  
-🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/pedro-henrique-correia-de-jesus-4a9605348/?skipRedirect=true)
+🔗 LinkedIn: https://www.linkedin.com/in/pedro-henrique-correia-de-jesus-4a9605348/?skipRedirect=true
 
 ---
 
