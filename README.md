@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+Pedro+Henrique;Em+transição+para+Análise+de+Dados;Python+%7C+SQL+%7C+PySpark+%7C+BI;Transformando+dados+em+insights&center=true&width=600&height=50">
+</p>
+
 # 👋 Olá! Eu sou o Pedro Henrique
 
 ---
