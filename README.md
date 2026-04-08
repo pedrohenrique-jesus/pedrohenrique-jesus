@@ -1,17 +1,14 @@
 # 👋 Olá! Eu sou o Pedro Henrique
 
-🎯 Em transição de carreira para a área de **Análise de Dados**, com foco em **Business Intelligence** e geração de insights para tomada de decisão.
-
-📊 Atualmente em formação em Análise de Dados pela **EBAC**, desenvolvendo projetos práticos com aplicações reais.
-
 ---
 
 ## 🚀 Sobre mim
 
-- 📈 Focado em Análise de Dados e BI  
-- 🧠 Pensamento analítico e resolução de problemas  
-- ⚙️ Experiência prévia em ambiente crítico (hospitalar)  
-- 📚 Aprendizado contínuo e orientação a dados  
+Sou Analista de Dados em formação pela pela EBAC, apaixonado por transformar dados em informações úteis para tomada de decisão.
+
+Ao longo da minha formação, venho desenvolvendo projetos práticos utilizando Python, SQL, PySpark e ferramentas de Business Intelligence, aplicando conceitos de análise exploratória, estatística e visualização de dados em diferentes contextos.
+
+Estou sempre em busca de evolução constante, aprimorando minhas habilidades técnicas e explorando novas formas de extrair insights relevantes a partir dos dados.
 
 ---
 
@@ -52,7 +49,5 @@
 
 📧 Email: pedrojesuscorre@email.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pedro-henrique-correia-de-jesus-4a9605348/?skipRedirect=true
-
----
 
 ⭐ Sempre em busca de aprendizado e novos desafios na área de dados!
