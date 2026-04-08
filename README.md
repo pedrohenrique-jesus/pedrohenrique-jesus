@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+Pedro+Henrique;Futuro+Analista+de+Dados;Python+%7C+SQL+%7C+BI;Transformando+dados+em+insights&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+Pedro+Henrique;Analista+de+Dados+em+formação;Python+%7C+SQL+%7C+PySpark+%7C+BI;Foco+em+geração+de+insights&center=true&width=650&height=50&color=00F7FF&vCenter=true&pause=1000">
 </p>
 
 # 👋 Olá! Eu sou o Pedro Henrique
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Analista de Dados em formação pela pela EBAC, apaixonado por transformar dados em informações úteis para tomada de decisão.
+Sou Analista de Dados em formação pela pela EBAC, com foco em transformar dados em informações úteis para tomada de decisão.
 
 Ao longo da minha formação, venho desenvolvendo projetos práticos utilizando Python, SQL, PySpark e ferramentas de Business Intelligence, aplicando conceitos de análise exploratória, estatística e visualização de dados em diferentes contextos.
 
