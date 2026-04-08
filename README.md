@@ -49,5 +49,3 @@ Estou sempre em busca de evolução constante, aprimorando minhas habilidades t�
 
 📧 Email: pedrojesuscorre@email.com  
 🔗 LinkedIn: https://www.linkedin.com/in/pedro-henrique-correia-de-jesus-4a9605348/?skipRedirect=true
-
-⭐ Sempre em busca de aprendizado e novos desafios na área de dados!
