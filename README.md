@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+Pedro+Henrique;Analista+de+Dados+em+formação;Python+%7C+SQL+%7C+PySpark+%7C+BI;Foco+em+geração+de+insights&center=true&width=650&height=50&color=00F7FF&vCenter=true&pause=1000">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Pedro+Henrique!;Seja+bem+vindo(a)+ao+meu+github;e+aqui+trago+todo+o+meu+desenvolvimento+no+munda+da+tecnologia!)](https://git.io/typing-svg)
 
 # 👋 Olá! Eu sou o Pedro Henrique
 
