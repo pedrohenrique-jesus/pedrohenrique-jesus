@@ -55,10 +55,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique-jesus&show_icons=true&theme=github_dark)
-
----
-
 ⭐ Sempre em busca de aprendizado e novos desafios na área de dados!
