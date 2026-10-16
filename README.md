@@ -42,6 +42,7 @@ Estou sempre em busca de evolução constante, aprimorando minhas habilidades t�
 - 📈 [Análise de Mercado de Ações (Google Sheets)](https://github.com/pedrohenrique-jesus/analise-financeira-google-sheets)
 - ⚡ [Processamento de Dados com PySpark](https://github.com/pedrohenrique-jesus/analise-dados-pyspark)
 - 🚗 [Dashboard de Acidentes de Trânsito](https://github.com/pedrohenrique-jesus/analise-acidentes-transito-brasil)
+- 🔍 [Dashboard de Criminalidade em Londres](https://github.com/pedrohenrique-jesus/analise-criminalidade-londres/tree/main)
 
 ---
 
