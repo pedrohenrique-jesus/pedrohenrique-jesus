@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Analista de Dados em formação pela pela EBAC, com foco em transformar dados em informações úteis para tomada de decisão.
+Sou Analista de Dados formado pela EBAC, com foco em transformar dados em informações úteis para tomada de decisão.
 
 Ao longo da minha formação, venho desenvolvendo projetos práticos utilizando Python, SQL, PySpark e ferramentas de Business Intelligence, aplicando conceitos de análise exploratória, estatística e visualização de dados em diferentes contextos.
 
