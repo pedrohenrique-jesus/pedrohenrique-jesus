@@ -50,4 +50,4 @@ Estou sempre em busca de evolução constante, aprimorando minhas habilidades t�
 ## 📫 Contato
 
 📧 Email: pedrojesuscorre@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/pedro-henrique-correia-de-jesus-4a9605348/?skipRedirect=true](https://www.linkedin.com/in/pedro-henrique-correia-de-jesus/)
+🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/pedro-henrique-correia-de-jesus/)
